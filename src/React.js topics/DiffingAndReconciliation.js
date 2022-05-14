@@ -1,0 +1,2 @@
+// What is Diffing and reconciliation?
+// Virtual DOM is synced with real DOM with ReactDOM library. This process is called Reconciliation. React compares the Virtual DOM and pre-updated Virtual DOM and only marks the sub-tree of components that are updated. This process is called diffing.
